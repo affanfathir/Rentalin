@@ -40,7 +40,7 @@ class AccountScreen extends StatelessWidget {
                               Text(
                                 "Muhammad Yusran",
                                 style: TextStyle(
-                                  fontSize: 18,
+                                  fontSize: 19, // Halooo affan kontol
                                   fontWeight: FontWeight.bold,
                                   color: Colors.white,
                                 ),
